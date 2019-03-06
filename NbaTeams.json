@@ -1,0 +1,271 @@
+[
+  {
+    "abbreviation": "ATL",
+    "teamName": "Atlanta Hawks",
+    "simpleName": "Hawks",
+    "location": "Atlanta, Georgia",
+    "arena": "Philips Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/ATL.png"
+  },
+
+  {
+    "abbreviation": "BOS",
+    "teamName": "Boston Celtics",
+    "simpleName": "Celtics",
+    "location": "Boston, Massachusetts",
+    "arena": "TD Garden",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/BOS.png"
+  },
+
+  {
+    "abbreviation": "BKN",
+    "teamName": "Brooklyn Nets",
+    "simpleName": "Nets",
+    "location": "Brooklyn, New York",
+    "arena": "Barclays Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/NJN.png"
+  },
+
+  {
+    "abbreviation": "CHA",
+    "teamName": "Charlotte Hornets",
+    "simpleName": "Hornets",
+    "location": "Charlotte, North Carolina ",
+    "arena": "Spectrum Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/CHA.png"
+  },
+
+  {
+    "abbreviation": "CHI",
+    "teamName": "Chicago Bulls",
+    "simpleName": "Bulls",
+    "location": " Chicago, Illinois",
+    "arena": " 	United Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/CHI.png"
+  },
+
+  {
+    "abbreviation": "CLE",
+    "teamName": "Cleveland Cavaliers",
+    "simpleName": "Cavaliers",
+    "location": "Cleveland, Ohio",
+    "arena": "Quicken Loans Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/CLE.png"
+  },
+
+  {
+    "abbreviation": "DAL",
+    "teamName": "Dallas Mavericks",
+    "simpleName": "Mavericks",
+    "location": "Dallas, Texas",
+    "arena": "American Airlines Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/DAL.png"
+  },
+  
+  {
+    "abbreviation": "DEN",
+    "teamName": "Denver Nuggets",
+    "simpleName": "Nuggets",
+    "location": "Denver, Colorado",
+    "arena": "Pepsi Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/DEN.png"
+  },
+  
+  {
+    "abbreviation": "DET",
+    "teamName": "Detroit Pistons",
+    "simpleName": "Pistons",
+    "location": "Detroit, Michigan",
+    "arena": "Little Caesars Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/DET.png"
+  },
+  
+  {
+    "abbreviation": "GSW",
+    "teamName": "Golden State Warriors",
+    "simpleName": "Warriors",
+    "location": "Oakland, California",
+    "arena": "Oracle Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/GSW.png"
+  },
+  
+  {
+    "abbreviation": "HOU",
+    "teamName": "Houston Rockets",
+    "simpleName": "Rockets",
+    "location": "Houston, Texas",
+    "arena": "Toyota Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/HOU.png"
+  },
+  
+  {
+    "abbreviation": "IND",
+    "teamName": "Indiana Pacers",
+    "simpleName": "Pacers",
+    "location": "Indianapolis, Indiana",
+    "arena": "Bankers Life Fieldhouse",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/IND.png"
+  },
+  
+  {
+    "abbreviation": "LAC",
+    "teamName": "Los Angeles Clippers",
+    "simpleName": "Clippers",
+    "location": "Los Angeles, California",
+    "arena": "Staples Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/LAC.png"
+  },
+  
+  {
+    "abbreviation": "LAL",
+    "teamName": "Los Angeles Lakers",
+    "simpleName": "Lakers",
+    "location": "Los Angeles, California",
+    "arena": "Staples Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/LAL.png"
+  },
+  
+  {
+    "abbreviation": "MEM",
+    "teamName": "Memphis Grizzlies",
+    "simpleName": "Grizzlies",
+    "location": "Memphis, Tennessee",
+    "arena": "FedExForum",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/MEM.png"
+  },
+  
+  {
+    "abbreviation": "MIA",
+    "teamName": "Miami Heat",
+    "simpleName": "Heat",
+    "location": "Miami, Florida",
+    "arena": "American Airlines Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/MIA.png"
+  },
+  
+  {
+    "abbreviation": "MIL",
+    "teamName": "Milwaukee Bucks",
+    "simpleName": "Bucks",
+    "location": "Milwaukee, Wisconsin",
+    "arena": "Wisconsin Entertainment and Sports Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/MIL.png"
+  },
+  
+  {
+    "abbreviation": "MIN",
+    "teamName": "Minnesota Timberwolves",
+    "simpleName": "Timberwolves",
+    "location": "Minneapolis, Minnesota",
+    "arena": "Target Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/MIN.png"
+  },
+  
+  {
+    "abbreviation": "NOP",
+    "teamName": "New Orleans Pelicans",
+    "simpleName": "Pelicans",
+    "location": "New Orleans, Louisiana",
+    "arena": "Smoothie King Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/NOH.png"
+  },
+  
+  {
+    "abbreviation": "NYK",
+    "teamName": "New York Knicks",
+    "simpleName": "Knicks",
+    "location": "New York, New York",
+    "arena": "Madison Square Garden",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/NYK.png"
+  },
+  
+  {
+    "abbreviation": "OKC",
+    "teamName": "Oklahoma City Thunder",
+    "simpleName": "Thunder",
+    "location": "Oklahoma City, Oklahoma",
+    "arena": "Chesapeake Energy Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/OKC.png"
+  },
+  
+  {
+    "abbreviation": "ORL",
+    "teamName": "Orlando Magic",
+    "simpleName": "Magic",
+    "location": "Orlando, Florida",
+    "arena": "Amway Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/ORL.png"
+  },
+  
+  {
+    "abbreviation": "PHI",
+    "teamName": "Philadelphia 76ers",
+    "simpleName": "76ers",
+    "location": "Philadelphia, Pennsylvania",
+    "arena": "Wells Fargo Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/PHI.png"
+  },
+  
+  {
+    "abbreviation": "PHX",
+    "teamName": "Phoenix Suns",
+    "simpleName": "Suns",
+    "location": "Phoenix, Arizona",
+    "arena": "Talking Stick Resort Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/PHO.png"
+  },
+  
+  {
+    "abbreviation": "POR",
+    "teamName": "Portland Trail Blazers",
+    "simpleName": "Trail Blazers",
+    "location": "Portland, Oregon",
+    "arena": "Moda Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/POR.png"
+  },
+  
+  {
+    "abbreviation": "SAC",
+    "teamName": "Sacramento Kings",
+    "simpleName": "Kings",
+    "location": "Sacramento, California",
+    "arena": "Golden 1 Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/SAC.png"
+  },
+  
+  {
+    "abbreviation": "SAS",
+    "teamName": "San Antonio Spurs",
+    "simpleName": "Spurs",
+    "location": "San Antonio, Texas",
+    "arena": "AT&T Center",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/SAS.png"
+  },
+  
+  {
+    "abbreviation": "TOR",
+    "teamName": "Toronto Raptors",
+    "simpleName": "Raptors",
+    "location": "Toronto, Ontario",
+    "arena": "Air Canada Centre",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/TOR.png"
+  },
+  
+  {
+    "abbreviation": "UTA",
+    "teamName": "Utah Jazz",
+    "simpleName": "Jazz",
+    "location": "Salt Lake City, Utah",
+    "arena": "Vivint Smart Home Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/UTA.png"
+  },
+
+  {
+    "abbreviation": "WAS",
+    "teamName": "Washington Wizards",
+    "simpleName": "Wizards",
+    "location": "Washington, D.C.",
+    "arena": "Capital One Arena",
+    "logo":"https://d2p3bygnnzw9w3.cloudfront.net/req/201805011/tlogo/bbr/WAS.png"
+  }
+]
